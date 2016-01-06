@@ -5,4 +5,4 @@ Just some small batchscripts to make chocolatey supa-easier !
   - cu.bat        Shortcut script for command line "choco uninstall (package)" => cu (package)
   - cupa.bat      Shortcut script for command line "choco upgrade all" => cupa
   - eis.bat       Custom script that list installed packages and export them to a text file => eis
-  - eis2.bat      Just another version of eis.bat which perfoms more checks while analyzing
+  - eis2.bat      Just another version of eis.bat which perfoms more checks while analyzing => eis2
