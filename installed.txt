@@ -1,3 +1,4 @@
+7zip 15.14
 7zip.install 15.14
 AdobeAIR 18.0.0.144
 adobereader 2015.007.20033
@@ -17,13 +18,12 @@ disk2vhd 2.01
 DotNet4.5 4.5.20120822
 DotNet4.5.1 4.5.1.20140606
 DotNet4.6.1 4.6.01055.00
-f.lux 3.10
 ffmpeg 2.8.4
 filezilla 3.14.1
 flashplayerplugin 20.0.0.267
 gimp 2.8.14.20151006
-git 2.6.4
-git.install 2.6.4
+git 2.7.0
+git.install 2.7.0
 github 3.0.11.0
 imgburn 2.5.8.00
 javaruntime 8.0.60
@@ -33,13 +33,14 @@ keepass.install 2.30
 lessmsi 1.4
 lockhunter 3.1.1
 nmap 7.01
+notepadplusplus 6.8.8
 notepadplusplus.install 6.8.8
-paint.net 4.0.6
 PDFCreator 2.2.2
 PowerShell 4.0.20141001
 putty 0.66
 putty.portable 0.66
 rdcman 2.7.1406.0
+Recuva 1.52.1086
 skype 7.17.0.106
 SourceTree 1.7.0.32509
 steam 1.0.0.5
@@ -57,4 +58,4 @@ winrar 5.30.0.20151214
 winscp 5.7.6
 winscp.install 5.7.6
 wireshark 1.12.8
-59 packages installed.
+60 packages installed.

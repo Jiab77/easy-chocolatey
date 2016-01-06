@@ -8,7 +8,7 @@ set total=0
 for /f %%? in (!list!) do (
 	set /a total+=1
 )
-echo Total: !total! soft to install
+echo Total: !total! Software^(s^) to install...
 echo.
 for /f %%i in (!list!) do (
 	set /a n+=1
