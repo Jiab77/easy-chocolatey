@@ -1,6 +1,7 @@
 # easy-chocolatey
 Just some small batch scripts to make chocolatey supa-easier !
-  - ci.bat        Shortcut script for command line "choco install (package)" => ci (package)
+  - ci.bat
+    - Shortcut script for command line "choco install (package)" => ci (package)
   - cil.bat       Custom script that parse a text file for packages to install them => cil (text file)
   - cu.bat        Shortcut script for command line "choco uninstall (package)" => cu (package)
   - cupa.bat      Shortcut script for command line "choco upgrade all" => cupa
