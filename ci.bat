@@ -1,2 +1,2 @@
 @echo off
-call choco install %* -y -v
+call choco install %* -y

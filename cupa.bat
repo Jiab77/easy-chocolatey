@@ -1,2 +1,2 @@
 @echo off
-call choco upgrade all -y -v
+call choco upgrade all -y
