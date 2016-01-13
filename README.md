@@ -12,3 +12,5 @@ Just some small batch scripts to make chocolatey supa-easier !
     - Custom script that list installed packages and export them to a text file => eis
   * eis2.bat
     - Just another version of eis.bat which perfoms more checks while analyzing => eis2
+
+See https://github.com/chocolatey/choco for more details
