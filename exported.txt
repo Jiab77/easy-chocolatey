@@ -5,10 +5,12 @@ Atom
 audacity
 avidemux
 blender
+brainsimulator
 ccleaner
 chocolatey
 ChocolateyGUI
 chromium
+codecity
 cpu-z
 curl
 defraggler
@@ -29,6 +31,10 @@ keepass
 lessmsi
 lockhunter
 mediainfo
+<<<<<<< HEAD
+=======
+meld
+>>>>>>> 61a434b4bc39c729343ab46ec594770da8943ebe
 nmap
 notepadplusplus
 PDFCreator
@@ -38,12 +44,14 @@ rdcman
 Recuva
 skype
 SourceTree
+spybot
 steam
 Sudo
 sysinternals
 transmission-qt
 vcredist2008
 virtualbox
+virtualdub
 virtualmachineconverter
 VisualStudioCode
 vlc
