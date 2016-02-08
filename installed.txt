@@ -1,6 +1,6 @@
 7zip 15.14
 7zip.install 15.14
-AdobeAIR 18.0.0.144
+AdobeAIR 20.0.0.233
 adobereader 2015.007.20033
 Atom 1.0.7
 audacity 2.1.1
@@ -18,20 +18,23 @@ disk2vhd 2.01
 DotNet4.5 4.5.20120822
 DotNet4.5.1 4.5.1.20140606
 DotNet4.6.1 4.6.01055.00
+f.lux 3.10
 ffmpeg 2.8.4
 filezilla 3.14.1
 flashplayerplugin 20.0.0.267
-gimp 2.8.14.20151006
+gimp 2.8.16
 git 2.7.0
 git.install 2.7.0
 github 3.0.11.0
+imdisk 2.0.9
 imgburn 2.5.8.00
-javaruntime 8.0.60
+javaruntime 8.0.66
 jre8 8.0.66
 keepass 2.30
 keepass.install 2.30
 lessmsi 1.4
 lockhunter 3.1.1
+mediainfo 0.7.81
 nmap 7.01
 notepadplusplus 6.8.8
 notepadplusplus.install 6.8.8
@@ -41,11 +44,11 @@ putty 0.66
 putty.portable 0.66
 rdcman 2.7.1406.0
 Recuva 1.52.1086
-skype 7.17.0.106
+skype 7.18.0.103
 SourceTree 1.7.0.32509
 steam 1.0.0.5
 Sudo 1.0.2
-sysinternals 2015.10.26
+sysinternals 2016.01.04
 transmission-qt 2.84.6
 vcredist2008 9.0.30729.1
 virtualbox 5.0.12.104815
@@ -58,4 +61,4 @@ winrar 5.30.0.20151214
 winscp 5.7.6
 winscp.install 5.7.6
 wireshark 1.12.8
-60 packages installed.
+63 packages installed.

@@ -26,3 +26,4 @@ if exist "%export%" (
 	echo Type cil.bat %export% to install them all ^^!
 	echo.
 )
+echo Press any key to exit... & pause>NUL
