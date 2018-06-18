@@ -1,20 +1,32 @@
-# easy-chocolatey
-Just some small batch scripts to make chocolatey supa-easier !
-  * ci.bat
-    - Shortcut script for command line "choco install (package)" => ci (package)
-  * cil.bat
-    - Custom script that parse a text file for packages to install them => cil (text file)
-  * cis.bat
-    - Shortcut script for command line "choco list -l" => cis
-  * cu.bat
-    - Shortcut script for command line "choco uninstall (package)" => cu (package)
-  * cup.bat
-    - Shortcut script for command line "choco upgrade (package)" => cup (package)
-  * cupa.bat
-    - Shortcut script for command line "choco upgrade all" => cupa
-  * eis.bat
-    - Custom script that list installed packages and export them to a text file => eis
-  * eis2.bat
-    - Just another version of eis.bat which perfoms more checks while analyzing => eis2
+# Bye bye Github...
 
-See https://github.com/chocolatey/choco for more details
+Why do I'm leaving Github ?
+
+> Because I can't live with the idea that Microsoft now owns the biggest place where the open source code is / was hosted.
+
+And ?
+
+> Also because Github didn't took the time to ask us, developpers, users, if we would be ok with this operation and my reply would be **NO!**
+
+# New home
+
+But where could you find my code now ?
+
+> I just moved to Gitlab as many other devs did.
+
+# Gists
+
+My gists will stay on Github for few reasons:
+
+ * Github has a better audience on Google
+ * Did not found the same feature with the same visibility on Gitlab
+
+Place of my gists: https://gist.github.com/jiab77
+
+# Projects
+
+I might just keep the projects names on Github too for the same reason as above, but with only the present file and a link to the new project home.
+
+# Repository
+
+The new place is here: https://gitlab.com/jiab77/easy-chocolatey
